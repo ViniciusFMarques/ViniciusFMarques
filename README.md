@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ViniciusFMarques
-- 👀 I’m interested in HTML, CSS, Javascript and web development
-- 🌱 I’m currently learning CSS and Javascript
-- 💞️ I’m looking to collaborate on Web development projects or other development areas
-- 📫 How to reach me: Email: vinicius1marques@hotmail.com
--                      Tel: (11) 96346-0882
+
+- 👀 Interessado em HTML, CSS, Javascript e desenvolvimento web em geral
+- 🌱 Estudando CSS e Javascript
+- 💞️ Procurando trabalhar e colaborar em projetos de desenvolvimento web
+- 📫 Contate-me no email: vinicius1marques@hotmail.com
 
 <!---
 ViniciusFMarques/ViniciusFMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
