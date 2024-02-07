@@ -1,6 +1,6 @@
 
-- 👀 Interessado em HTML, CSS, Javascript e desenvolvimento web em geral
-- 🌱 Estudando CSS e Javascript
+- 👀 Interessado em javascript e desenvolvimento web em geral
+- 🌱 Estudando React e Node.js
 - 💞️ Procurando trabalhar e colaborar em projetos de desenvolvimento web
 - 📫 Contate-me no email: vinicius1marques@hotmail.com
 
