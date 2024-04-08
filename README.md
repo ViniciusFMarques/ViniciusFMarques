@@ -4,11 +4,7 @@
 - 💞️ Procurando trabalhar e colaborar em projetos de desenvolvimento web
 - 📫 Contate-me no email: vinicius1marques@hotmail.com
 
-<div align="center">
-  <a href="https://github.com/ViniciusFMarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFMarques&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFMarques&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFMarques)](https://github.com/ViniciusFMarques/github-readme-stats)
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
